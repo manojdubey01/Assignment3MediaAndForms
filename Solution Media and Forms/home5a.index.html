@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><u>Sign- up page</u></h1>
+    <form action="">
+        <label for="fname">First Name:
+        <input type="text" name="fname" placeholder="Manoj" id="fname" required minlength=3 max=20 />
+        </label> <br><br>
+
+        <label for="lname">Last Name:
+        <input type="text" name="lname" placeholder="Dubey" id="lname" required minlength=3 max=20 />
+        </label> <br><br>
+
+        <label for="email">Email:
+        <input type="email" name="email" placeholder="example@gmail.com" id="email" required/>
+        </label> <br><br>
+
+        <label for="password">Password:
+        <input type="password" name="password" placeholder="**********" id="password" required min="8"/>
+        </label> <br><br>
+
+        <label for="confirmpassword">Confirm Password:
+        <input type="password" name="confirmpassword" placeholder="**********" id="confirmpassword" required/>
+        </label> <br><br>
+    
+        <label for="age">Age:
+        <input type="number" name="age" placeholder="25" id="age" required minlength=0 max=150 />
+        </label> <br><br>
+
+        <label for="">Gender:
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="male">Male</label>
+
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female">Female</label>
+
+            <input type="radio" name="gender" id="other" value="other">
+            <label for="gender">Other</label> <br><br>
+        </label>
+
+        <label for="terms">T&C:
+            <input type="checkbox" name="terms" id="terms" required>I agree to the terms and conditions
+        </label> <br><br>
+
+        <button type="submit">Register</button>
+    
+    </form>
+</body>
+</html>

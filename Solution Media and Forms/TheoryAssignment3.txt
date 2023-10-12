@@ -1,0 +1,53 @@
+Question 1: 
+
+	File names: 
+	    1. home1.index.html
+	    2. SolutionCodeAns1.png
+	    3. BrowserOutputAns1.png
+
+...................................................................
+
+
+Question 2: 
+
+	File names: 
+	    1. home2.index.html
+	    2. SolutionCodeAns2.png
+	    3. BrowserOutputAns2.png
+
+...................................................................
+
+
+Question 3: 
+
+	File names: Answer 2 and Ans 3 both are same.
+
+...................................................................
+
+Question 4: 
+
+	File names: 
+	    1. home4.index.html
+	    2. SolutionCodeAns4.png
+	    3. BrowserOutputAns4.png
+
+...................................................................
+
+
+Question 5.a: Sign-Up form 
+
+	File names: 
+	    1. home5a.index.html
+	    2. SolutionCodeAns5a.png
+	    3. BrowserOutputAns5a.png
+
+...................................................................
+
+Question 5.b: Sign-In page
+
+	File names: 
+	    1. home5b.index.html
+	    2. SolutionCodeAns5b.png
+	    3. BrowserOutputAns5b.png
+
+...................................................................
